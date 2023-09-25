@@ -3,7 +3,7 @@ displayed_sidebar: userDocsSidebar
 sidebar_label: Welcome!
 ---
 
-# Welcome to the Strapi User Guide!
+# Welcome to the Strapi User Guide! Test
 
 This user guide contains the functional documentation related to all features available in the admin panel of your Strapi application.
 
